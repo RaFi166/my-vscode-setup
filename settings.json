@@ -1,0 +1,35 @@
+{ 
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.enabled": false,
+    "editor.suggest.insertHighlight": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "task.problemMatchers.neverPrompt": null,
+    "editor.renameOnType": true,
+    "workbench.sideBar.location": "left",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "python.showStartPage": false,
+    "files.associations": {"*.html": "html"},
+    "emmet.includeLanguages": {"django-html": "html"},
+    "emmet.triggerExpansionOnTab": true,
+    "python.defaultInterpreterPath": "C:\\Users\\Rafi\\envs\\test\\Scripts\\python.exe",
+    "workbench.editorAssociations": [],
+    "editor.cursorBlinking": "expand",
+    "breadcrumbs.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "editor.fontWeight": "Regular 400",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "editor.lineHeight": 26,
+    "files.autoSave": "afterDelay",
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.fontSize": 15,
+    
+}

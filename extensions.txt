@@ -1,0 +1,17 @@
+Extensions:
+
+1. :emojisense
+2. Auto Close Tag
+3. Auto import
+4. Auto Rename Tag 
+5. Bootstrap 4,Font Awesome 4
+6. Bracket Pair Colorize
+7. CSS Peek
+8. ES7 React/Redux/GraphQL
+9. ESLint 
+10. Highlight Matching Tag 
+11. HTML CSS Support 
+12. Javascript Code snippets
+13. Live Server 
+14. Material Icon Theme 
+15. Material Theme (Palenight High Contrast) 
